@@ -207,16 +207,17 @@ article div.main-article{
 }
 
 .footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #fff;
+    color: #000;
     padding: 20px;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 .footer-section {
-    width: 45%; /* Ajusta el ancho de cada sección */
+    width: 30%; 
     margin-bottom: 20px;
 }
 
